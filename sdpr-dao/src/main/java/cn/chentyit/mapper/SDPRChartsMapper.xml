@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.chentyit.mapper.SDPRChartsMapper">
+    <resultMap id="NOPChartsMap" type="NOPNumberOfThesisForTheme">
+        <result column="theme_name" property="themeName" javaType="String"/>
+        <result column="thesis_year" property="thesisYear" javaType="String"/>
+        <result column="num" property="num"/>
+    </resultMap>
+
+    <resultMap id="DOFChartsMap" type="DOFJson">
+        <result column="theme_name" property="name"/>
+        <result column="num" property="value"/>
+    </resultMap>
+
+    <!-- 这个查询的是在 year 年，某一个主题，有 num 篇文章 -->
+    <select id="findNumberOfThesisForThemeEveryYear" parameterType="String" resultMap="NOPChartsMap">
+        SELECT te.theme_name, ts.thesis_year, COUNT(ts.thesis_year) as num
+        FROM thesis as ts, theme as te
+        WHERE ts.theme_id = te.theme_id AND te.theme_name = #{themeName}
+        GROUP BY ts.thesis_year
+    </select>
+
+    <!-- 查询论文主题对应论文数 -->
+    <select id="findThesisNumberOfTheme" resultMap="DOFChartsMap">
+        SELECT te.theme_name, COUNT(te.theme_name) as num
+        FROM thesis as ts, theme as te
+        WHERE ts.theme_id = te.theme_id
+        GROUP BY te.theme_name
+    </select>
+</mapper>
