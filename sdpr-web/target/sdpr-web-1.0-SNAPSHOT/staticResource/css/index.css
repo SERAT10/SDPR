@@ -1,0 +1,212 @@
+body {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    background: rgb(6, 111, 135);
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+
+.header .tool-name {
+    width: 28%;
+    height: 60px;
+    float: left;
+    line-height: 60px;
+    color: #FFFFFF;
+    font-size: 45px;
+    text-align: center;
+}
+
+.header .tool-bar {
+    float: right;
+    width: 35%;
+    height: 60px;
+    margin-right: 60px;
+}
+
+.header .tool-bar .first-floor {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .tool-bar .first-floor .first p {
+    height: 50px;
+    width: 180px;
+    background: black;
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    left: -60px;
+    visibility: hidden;
+}
+
+.header .tool-bar .first-floor .first {
+    float: left;
+    width: 60px;
+    height: 60px;
+}
+
+.header .tool-bar .first-floor .first:hover {
+    background-color: black;
+}
+
+.header .tool-bar .first-floor .first:hover p {
+    visibility: visible;
+}
+
+.header .tool-bar .first-floor .first img {
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.search {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.search .search-picture {
+    width: 100%;
+    height: 730px;
+    background: url("../images/background.jpg") no-repeat fixed;
+    background-size: 100% 100%;
+}
+
+.search .search-topLayer {
+    width: 100%;
+    height: 730px;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.search .search-topLayer-top {
+    width: 1300px;
+	height: 540px;
+	border-radius: 10px;
+	position: absolute;
+	top: 155px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 2;
+}
+
+.search .search-topLayer-top p {
+    color: #FFFFFF;
+    text-align:center;
+	margin: 25px 25px;
+}
+
+.search .search-topLayer-top .SDPR {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.search .search-topLayer-top .pages {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.search .search-topLayer-top .pages button {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.search .search-topLayer-top form .input {
+    width: 800px;
+    margin: 50px auto;
+    outline: none;
+}
+
+.search .search-topLayer-top form .input input {
+    width: 100%;
+    height: 65px;
+    color: #FFFFFF;
+    text-indent: 20px;
+    font-size: 20px;
+    background: none;
+    border: 4px white solid;
+    border-radius: 10px;
+}
+
+.search .search-topLayer-top form .input input:hover {
+    border: 4px #066F87 solid;
+}
+
+.search .search-topLayer-top form .button {
+    width: 180px;
+    height: 60px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 40px auto;
+}
+
+.search .search-topLayer-top form .button button {
+    width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    font-size: 18px;
+    border: 4px white solid;
+    border-radius: 10px;
+    background: none;
+}
+
+.search .search-topLayer-top form .button button:hover {
+    background-color: #066F87;
+    border: 4px #066F87 solid;
+}
+
+.about {
+    width: 100%;
+    background-color: #F9F9F9;
+}
+
+.about .about-top {
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.about .line {
+    width: 50px;
+    height: 0;
+    border: 1px #066F87 solid;
+    margin: 0 auto 20px;
+}
+
+.about .about-content {
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 60px;
+}
+
+.about .about-content a {
+    color: #066F87;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(6, 111, 135);
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+}

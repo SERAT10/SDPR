@@ -1,0 +1,63 @@
+body {
+    background: url("../images/background.jpg") no-repeat fixed;
+    background-size: 100% 100%;
+}
+
+.content {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 50px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.content .synopsis {
+    width: 100%;
+}
+
+.content .synopsis .name {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.content .synopsis .how {
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.content .synopsis .line {
+    width: 100%;
+    border-top: white dashed 2px;
+    margin-bottom: 10px;
+}
+
+.content .synopsis .none {
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.content .synopsis ul {
+    margin: 0 0 20px 20px;
+    list-style: disc inside;
+}
+
+.content .synopsis ul li {
+    color: #FFFFFF;
+    line-height: 25px;
+}
+
+.content .table-title {
+    margin-top: 25px;
+    font-size: 25px;
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+
+.content .myself-table {
+    color: #FFFFFF;
+}

@@ -1,0 +1,92 @@
+.top {
+    width: 100%;
+    height: 60px;
+    background: rgb(6, 111, 135);
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+
+.top .go-home {
+    float: right;
+    width: 60px;
+    height: 60px;
+    margin-right: 50px;
+}
+
+.top .go-home:hover {
+    background-color: #07e4e2;
+}
+
+.top .go-home img {
+    width: 100%;
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.top .search {
+    float: right;
+    width: 350px;
+    height: 60px;
+    margin-right: 20px;
+}
+
+.top .search form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.top .search .input {
+    width: 270px;
+    height: 35px;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+    border: rgba(186, 183, 238, 0.1) solid 2px;
+    border-radius: 20px;
+}
+
+.top .search .input:hover {
+    border: #07e4e2 solid 2px;
+}
+
+.top .search .input input {
+    width: 288px;
+    height: 35px;
+    border-radius: 20px;
+    text-indent:20px;
+    color: #FFFFFF;
+    outline: none;
+    background: rgba(0, 0, 0, 0);
+}
+
+.top .search form .button {
+    width: 60px;
+    height: 60px;
+}
+
+.top .search form .button button {
+    width: 60px;
+    height: 60px;
+    background: none;
+}
+
+.top .search form .button button:hover {
+    cursor:pointer;
+    background-color: #07e4e2;
+}
+
+.top .search form .button button img {
+    width: 60px;
+    height: 60px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0;
+}

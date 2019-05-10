@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.chentyit.mapper.SDPRThemeMapper">
+    <resultMap id="BaseResultMap" type="Theme">
+        <id column="theme_id" property="themeId" javaType="Integer"/>
+        <result column="theme_name" property="themeName" javaType="String"/>
+    </resultMap>
+
+    <!-- 查出有多少个主题 -->
+    <select id="findAllTheme" resultMap="BaseResultMap">
+        SELECT * FROM theme
+    </select>
+</mapper>

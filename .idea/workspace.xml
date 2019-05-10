@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sdpr-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/sdpr-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/sdpr-common/target/" />
+    <ignored path="$PROJECT_DIR$/sdpr-dao/target/" />
+    <ignored path="$PROJECT_DIR$/sdpr-service/target/" />
+    <ignored path="$PROJECT_DIR$/sdpr-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Aspect" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../../css/</find>
+      <find>../../image/</find>
+      <find>${pageContext.request.contextPath}/staticResource/image/</find>
+      <find>back</find>
+      <find>loadNopChartOut</find>
+      <find>ali</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>${pageContext.request.contextPath}/css/</replace>
+      <replace>${pageContext.request.contextPath}/staticResource/image/</replace>
+      <replace>${pageContext.request.contextPath}/staticResource/images/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsServer.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsServerImpl.java" />
+        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/NOPJson.java" />
+        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/NOPNumberOfThesisForTheme.java" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsService.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/DOFJson.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-chart.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-chart.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-chart.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/sitm-charts.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/world.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/rank.css" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRRandMapper.xml" />
+        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Scholar.java" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.xml" />
+        <option value="$PROJECT_DIR$/sdpr-common/pom.xml" />
+        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/Publisher.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarRank.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/MyList.java" />
+        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRRankValue.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/scholar.css" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRScholarMapper.xml" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRScholarMapper.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ScholarService.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ScholarServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarInstitution.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/research.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/research.css" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/pubtication.css" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/pubticationVenue.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml" />
+        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisService.java" />
+        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" />
+        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/maven36" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SDPR" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SDPR" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="590" />
+    <option name="y" value="105" />
+    <option name="width" value="975" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556011005007" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.25780347" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.chentyit.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\images" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticresource" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF\jsp" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\scripts" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-common\src\main\java\cn\chentyit\common" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat9">
+    <configuration name="ThemeServerImplTest.findAllTheme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sdprservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.chentyit.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.chentyit.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.chentyit.service.ThemeServerImplTest" />
+      <option name="METHOD_NAME" value="findAllTheme" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="sdpr-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SDPR" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SDPR" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55616" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="JAVA_TOOL_OPTIONS" />
+          <option name="VALUE" value="-Dfile.encoding=UTF-8" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sdpr-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ThemeServerImplTest.findAllTheme" />
+      <item itemvalue="Tomcat Server.Tomcat9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ThemeServerImplTest.findAllTheme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Chentyit\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="" />
+      <created>1554344324583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554344324583</updated>
+      <workItem from="1554344328368" duration="1526000" />
+      <workItem from="1554355706323" duration="2000" />
+      <workItem from="1554363891889" duration="9000" />
+      <workItem from="1554687487051" duration="3604000" />
+      <workItem from="1554692348281" duration="94000" />
+      <workItem from="1554791780008" duration="13145000" />
+      <workItem from="1554820596177" duration="21000" />
+      <workItem from="1554822682606" duration="749000" />
+      <workItem from="1554858169841" duration="13000" />
+      <workItem from="1554873992068" duration="12370000" />
+      <workItem from="1554958812321" duration="14484000" />
+      <workItem from="1555036462957" duration="11274000" />
+      <workItem from="1555077997936" duration="12000" />
+      <workItem from="1555132601788" duration="10663000" />
+      <workItem from="1555201688979" duration="15000" />
+      <workItem from="1555212670150" duration="7052000" />
+      <workItem from="1555229669003" duration="479000" />
+      <workItem from="1555250720686" duration="21000" />
+      <workItem from="1555251835845" duration="592000" />
+      <workItem from="1555287482411" duration="194000" />
+      <workItem from="1555289816310" duration="149000" />
+      <workItem from="1555299551791" duration="1111000" />
+      <workItem from="1555312714343" duration="9143000" />
+      <workItem from="1555322125027" duration="11000" />
+      <workItem from="1555397846333" duration="11827000" />
+      <workItem from="1555412897198" duration="99000" />
+      <workItem from="1555463210008" duration="16000" />
+      <workItem from="1555479831462" duration="11566000" />
+      <workItem from="1555497114998" duration="21000" />
+      <workItem from="1555564490763" duration="380000" />
+      <workItem from="1555565964116" duration="693000" />
+      <workItem from="1555566794562" duration="181000" />
+      <workItem from="1555567603651" duration="4316000" />
+      <workItem from="1555576939869" duration="14000" />
+      <workItem from="1555577892566" duration="8000" />
+      <workItem from="1555580349022" duration="3000" />
+      <workItem from="1555599587763" duration="304000" />
+      <workItem from="1555634138196" duration="17000" />
+      <workItem from="1555634188611" duration="2000" />
+      <workItem from="1555635642272" duration="77000" />
+      <workItem from="1555653296089" duration="13699000" />
+      <workItem from="1555680139951" duration="697000" />
+      <workItem from="1555719509072" duration="1056000" />
+      <workItem from="1555724962536" duration="2539000" />
+      <workItem from="1555766357842" duration="48000" />
+      <workItem from="1555811311071" duration="1553000" />
+      <workItem from="1555828348692" duration="29000" />
+      <workItem from="1555891370368" duration="738000" />
+      <workItem from="1555892294789" duration="12036000" />
+      <workItem from="1555920974555" duration="216000" />
+      <workItem from="1555942320522" duration="10000" />
+      <workItem from="1556003839588" duration="7731000" />
+      <workItem from="1556013270535" duration="73000" />
+      <workItem from="1556016260592" duration="10000" />
+      <workItem from="1556335482978" duration="14000" />
+      <workItem from="1556983207269" duration="722000" />
+      <workItem from="1556983962593" duration="266000" />
+      <workItem from="1556984252796" duration="37000" />
+      <workItem from="1557024081143" duration="79000" />
+      <workItem from="1557024345361" duration="780000" />
+      <workItem from="1557025397655" duration="649000" />
+      <workItem from="1557031143550" duration="378000" />
+      <workItem from="1557038949492" duration="9000" />
+      <workItem from="1557043298566" duration="692000" />
+      <workItem from="1557051506607" duration="100000" />
+      <workItem from="1557054420902" duration="17000" />
+      <workItem from="1557067028309" duration="1887000" />
+      <workItem from="1557069753720" duration="311000" />
+      <workItem from="1557101900294" duration="1830000" />
+      <workItem from="1557384916432" duration="7000" />
+      <workItem from="1557393529013" duration="1410000" />
+      <workItem from="1557402548963" duration="109000" />
+      <workItem from="1557447828089" duration="2594000" />
+      <workItem from="1557450697661" duration="1298000" />
+    </task>
+    <task id="LOCAL-00001" summary="version 0.5">
+      <created>1557451433323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557451433323</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version 0.5">
+      <created>1557451461291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557451461291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version 0.5">
+      <created>1557451749833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557451749833</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ThemeServerImplTest_findAllTheme - 2019.04.15 at 15h 59m 49s.xml">
+      <configuration name="ThemeServerImplTest.findAllTheme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeServerImplTest_findAllTheme - 2019.04.15 at 16h 00m 50s.xml">
+      <configuration name="ThemeServerImplTest.findAllTheme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeServerImplTest_findAllTheme - 2019.04.15 at 16h 06m 18s.xml">
+      <configuration name="ThemeServerImplTest.findAllTheme" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169881000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27144772" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3263889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5013889" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.53333336" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32916668" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32916668" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32916668" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32916668" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 0.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 0.5" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((IfTag)_jspx_th_c_005fif_005f0).pageContext" custom="org.apache.taglibs.standard.tag.rt.core.IfTag" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThemeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ScholarServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThemeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThemeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/images/Theme-Classify.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769">
+          <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/research.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/jdbcInfo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThemeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarInstitution.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2291">
+          <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/images/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/pubtication.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="66" column="64" selection-start-line="66" selection-start-column="64" selection-end-line="66" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="66" column="64" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="66" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2461">
+          <caret line="107" column="25" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/noi-chart.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="115" column="117" selection-start-line="115" selection-start-column="117" selection-end-line="115" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/beans.xml" />
+    <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/DOFJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/NOPNumberOfThesisForTheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="205" column="19" selection-start-line="19" selection-start-column="4" selection-end-line="205" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/TestAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="33" selection-start-line="12" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="59" column="65" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="28" column="110" selection-start-line="28" selection-start-column="110" selection-end-line="28" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1811#1812#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2068#2069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/DESUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#lastNameSortByAlphabet#0;class#SDPRValue#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777">
+          <caret line="100" column="35" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sdprweb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sdprweb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25780347" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.20</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
