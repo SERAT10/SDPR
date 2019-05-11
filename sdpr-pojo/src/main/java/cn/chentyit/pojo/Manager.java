@@ -54,8 +54,12 @@ public class Manager implements Serializable {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Manager)) return false;
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Manager)) {
+            return false;
+        }
         Manager manager = (Manager) o;
         return getManagerId() == manager.getManagerId() &&
                 getManagerPermissions() == manager.getManagerPermissions() &&
@@ -70,7 +74,8 @@ public class Manager implements Serializable {
                 getManagerName(),
                 getManagerPassword(),
                 getManagerPermissions(),
-                System.currentTimeMillis());
+                System.currentTimeMillis()
+        );
     }
 
     @Override

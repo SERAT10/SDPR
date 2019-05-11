@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   Created by IntelliJ IDEA.
   User: Chentyit
@@ -48,28 +49,34 @@
             <label class="lbl-3"> </label>
         </div>
         <div class="clear"> </div>
+
         <div class="avtar">
             <img src="${pageContext.request.contextPath}/staticResource/manage/login/images/avtar.png"  alt="头像"/>
         </div>
-        <form method="post" action="">
+
+        <form method="post" action="${pageContext.request.contextPath}/rest/manage/index">
+            <c:if test="${sessionScope.manager == null}">
+                <p>没有该管理员，请联系高级管理员进行操作</p>
+            </c:if>
             <input type="text"
                    class="text"
                    placeholder="LoginName"
                    name="managerName"
                    onfocus="this.value = '';"
-                   onblur="if (this.value == '') {this.value = 'Username';}" >
+                   onblur="if (this.value == '') {this.value = 'Username';}">
 
             <div class="key">
                 <input type="password"
                        placeholder="LoginPassword"
                        name="managerPassword"
                        onfocus="this.value = '';" 
-                       onblur="if (this.value == '') {this.value = 'Password';}">
+                       onblur="if (this.value == '') {this.value = 'Password';}"/>
+            </div>
+
+            <div class="signin">
+                <input type="submit" value="Login" >
             </div>
         </form>
-        <div class="signin">
-            <input type="submit" value="Login" >
-        </div>
     </div>
 </body>
 </html>

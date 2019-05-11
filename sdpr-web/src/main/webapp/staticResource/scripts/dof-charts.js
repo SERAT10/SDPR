@@ -68,7 +68,7 @@ function getDOFData() {
         "type": "post",
         "dataType": "json",
         "contentType" : "application/json",
-        "url": path + "/rest/getChartsData/getDOFData",
+        "url": path + "/getChartsData/getDOFData",
         "async": false,
         "success": function (data) {
             var min = data[0].value;

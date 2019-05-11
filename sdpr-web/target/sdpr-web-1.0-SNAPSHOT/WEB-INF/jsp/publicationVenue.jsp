@@ -28,7 +28,7 @@
         <p class="title">Refereed Journals</p>
         <div class="line"></div>
         <c:forEach items="${journalList}" var="journal">
-            <a href="${pageContext.request.contextPath}/rest/process/selectJournal?pageNum=1&journalName=${journal}">
+            <a href="${pageContext.request.contextPath}/process/selectJournal?pageNum=1&journalName=${journal}">
                 <p class="element">${journal}</p>
             </a>
         </c:forEach>
@@ -37,7 +37,7 @@
         <p class="title">Refereed Conferences</p>
         <div class="line"></div>
         <c:forEach items="${conferenceList}" var="conference">
-            <a href="${pageContext.request.contextPath}/rest/process/selectBookTitle?pageNum=1&bookTitleName=${conference}">
+            <a href="${pageContext.request.contextPath}/process/selectBookTitle?pageNum=1&bookTitleName=${conference}">
                 <p class="element">${conference}</p>
             </a>
         </c:forEach>

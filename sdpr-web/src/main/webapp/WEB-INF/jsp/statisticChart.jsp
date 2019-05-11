@@ -59,7 +59,7 @@
                 <p>Number of Institutions</p>
             </li>
             <li>
-                <a href="${pageContext.request.contextPath}/rest/goAction/goIndex">
+                <a href="${pageContext.request.contextPath}/goAction/goIndex">
                     <img src="${pageContext.request.contextPath}/staticResource/images/search.png">
                 </a>
                 <p>Search</p>

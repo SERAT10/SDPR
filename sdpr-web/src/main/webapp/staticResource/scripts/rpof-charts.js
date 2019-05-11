@@ -39,7 +39,7 @@ function getRPOFData() {
 		"dataType": "json",
 		"contentType" : "application/json",
 		// 因为这里获取的值和 NOP 图的值是相同的，只不过图标的表示方式不同，所以这里就复用了那里的代码
-		"url": path + "/rest/getChartsData/getNOPData",
+		"url": path + "/getChartsData/getNOPData",
 		"async": false,
 		"success": function (data) {
 			for (var i = 0; i < data.length; i++) {

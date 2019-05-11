@@ -43,42 +43,42 @@
     <div class="tool-bar">
         <ul class="first-floor">
             <li class="first" title="Statistic Chart">
-                <a href="${pageContext.request.contextPath}/rest/goAction/goCharts">
+                <a href="${pageContext.request.contextPath}/goAction/goCharts">
                     <img src="${pageContext.request.contextPath}/staticResource/images/Statistic-Chart.png"/>
                 </a>
                 <p>Statistic Chart</p>
             </li>
 
             <li class="first" title="Scholar Rank">
-                <a href="${pageContext.request.contextPath}/rest/goAction/goScholarRank">
+                <a href="${pageContext.request.contextPath}/goAction/goScholarRank">
                     <img src="${pageContext.request.contextPath}/staticResource/images/Scholar-Rank.png"/>
                 </a>
                 <p>Scholar Rank</p>
             </li>
 
             <li class="first" title="All Thesis List">
-                <a href="${pageContext.request.contextPath}/rest/goAction/thesisList">
+                <a href="${pageContext.request.contextPath}/goAction/thesisList">
                     <img src="${pageContext.request.contextPath}/staticResource/images/All-Thesis-List.png"/>
                 </a>
                 <p>All Paper List</p>
             </li>
 
             <li class="first" title="Scholar & Institution">
-                <a href="${pageContext.request.contextPath}/rest/goAction/goScholarInstitution">
+                <a href="${pageContext.request.contextPath}/goAction/goScholarInstitution">
                     <img src="${pageContext.request.contextPath}/staticResource/images/Scholar-Institution.png"/>
                 </a>
                 <p>Scholar & Institution</p>
             </li>
 
             <li class="first" title="Theme Classify">
-                <a href="${pageContext.request.contextPath}/rest/goAction/goThemeClassify">
+                <a href="${pageContext.request.contextPath}/goAction/goThemeClassify">
                     <img src="${pageContext.request.contextPath}/staticResource/images/Theme-Classify.png"/>
                 </a>
                 <p>Theme Classify</p>
             </li>
 
             <li class="first" title="Pubtication Venue">
-                <a href="${pageContext.request.contextPath}/rest/goAction/goPublicationVenue">
+                <a href="${pageContext.request.contextPath}/goAction/goPublicationVenue">
                     <img src="${pageContext.request.contextPath}/staticResource/images/Publication-Venue.png"/>
                 </a>
                 <p>Pubtication Venue</p>
@@ -98,7 +98,7 @@
 
         <p class="pages">all <button class="btn btn-info" onclick="surprise()">${count}</button> publications</p>
 
-        <form action="${pageContext.request.contextPath}/rest/process/select?pageNum=1" method="post">
+        <form action="${pageContext.request.contextPath}/process/select?pageNum=1" method="post">
             <div class="input">
                 <input type="text" name="search" placeholder="TITLE" class="title"/>
             </div>

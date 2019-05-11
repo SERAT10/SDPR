@@ -44,7 +44,7 @@ public class Index {
      */
     @RequestMapping("/")
     public String index() {
-        return "redirect:/rest/goAction/goIndex";
+        return "redirect:/goAction/goIndex";
     }
 
     @RequestMapping("/login")

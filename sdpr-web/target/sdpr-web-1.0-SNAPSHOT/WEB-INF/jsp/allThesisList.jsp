@@ -54,16 +54,16 @@
         <li class="page-item">
             <c:choose>
                 <c:when test="${search != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/select?pageNum=${pageInfo.prePage}&search=${search}">&laquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/select?pageNum=${pageInfo.prePage}&search=${search}">&laquo;</a>
                 </c:when>
                 <c:when test="${journalName != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectJournal?pageNum=${pageInfo.prePage}&journalName=${journalName}">&laquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectJournal?pageNum=${pageInfo.prePage}&journalName=${journalName}">&laquo;</a>
                 </c:when>
                 <c:when test="${bookTitleName != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectBookTitle?pageNum=${pageInfo.prePage}&bookTitleName=${bookTitleName}">&laquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectBookTitle?pageNum=${pageInfo.prePage}&bookTitleName=${bookTitleName}">&laquo;</a>
                 </c:when>
                 <c:when test="${themeId != 0}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=${pageInfo.prePage}&themeId=${themeId}">&laquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectTheme?pageNum=${pageInfo.prePage}&themeId=${themeId}">&laquo;</a>
                 </c:when>
             </c:choose>
         </li>
@@ -78,16 +78,16 @@
             </c:choose>
             <c:choose>
                 <c:when test="${search != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/select?pageNum=${i}&search=${search}">${i}</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/select?pageNum=${i}&search=${search}">${i}</a>
                 </c:when>
                 <c:when test="${journalName != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectJournal?pageNum=${i}&journalName=${journalName}">${i}</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectJournal?pageNum=${i}&journalName=${journalName}">${i}</a>
                 </c:when>
                 <c:when test="${bookTitleName != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectBookTitle?pageNum=${i}&bookTitleName=${bookTitleName}">${i}</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectBookTitle?pageNum=${i}&bookTitleName=${bookTitleName}">${i}</a>
                 </c:when>
                 <c:when test="${themeId != 0}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=${i}&themeId=${themeId}">${i}</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectTheme?pageNum=${i}&themeId=${themeId}">${i}</a>
                 </c:when>
             </c:choose>
             </li>
@@ -95,16 +95,16 @@
         <li class="page-item">
             <c:choose>
                 <c:when test="${search != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/select?pageNum=${pageInfo.nextPage}&search=${search}">&raquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/select?pageNum=${pageInfo.nextPage}&search=${search}">&raquo;</a>
                 </c:when>
                 <c:when test="${journalName != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectJournal?pageNum=${pageInfo.nextPage}&journalName=${journalName}">&raquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectJournal?pageNum=${pageInfo.nextPage}&journalName=${journalName}">&raquo;</a>
                 </c:when>
                 <c:when test="${bookTitleName != null}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectBookTitle?pageNum=${pageInfo.nextPage}&bookTitleName=${bookTitleName}">&raquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectBookTitle?pageNum=${pageInfo.nextPage}&bookTitleName=${bookTitleName}">&raquo;</a>
                 </c:when>
                 <c:when test="${themeId != 0}">
-                    <a class="page-link" href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=${pageInfo.nextPage}&themeId=${themeId}">&raquo;</a>
+                    <a class="page-link" href="${pageContext.request.contextPath}/process/selectTheme?pageNum=${pageInfo.nextPage}&themeId=${themeId}">&raquo;</a>
                 </c:when>
             </c:choose>
         </li>

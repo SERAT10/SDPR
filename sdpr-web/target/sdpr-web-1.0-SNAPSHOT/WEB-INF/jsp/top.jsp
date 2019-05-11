@@ -22,14 +22,14 @@
 <div class="top clearfix">
     <!-- 返回搜索主页 -->
     <div class="go-home">
-        <a href="${pageContext.request.contextPath}/rest/goAction/goIndex">
+        <a href="${pageContext.request.contextPath}/goAction/goIndex">
             <img src="${pageContext.request.contextPath}/staticResource/images/main.png">
         </a>
     </div>
 
     <!-- 搜索 -->
     <div class="search">
-        <form action="${pageContext.request.contextPath}/rest/process/select?pageNum=1" method="post">
+        <form action="${pageContext.request.contextPath}/process/select?pageNum=1" method="post">
             <div class="input">
                 <input type="text" name="search" placeholder="Search"/>
             </div>

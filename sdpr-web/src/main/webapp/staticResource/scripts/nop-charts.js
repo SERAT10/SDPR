@@ -70,7 +70,7 @@ function getNOPDate() {
 		"type": "post",
 		"dataType": "json",
 		"contentType" : "application/json",
-		"url": path + "/rest/getChartsData/getNOPData",
+		"url": path + "/getChartsData/getNOPData",
 		"async": false,
 		"success": function (data) {
 			// 将后天获取过来的数据放入图标中

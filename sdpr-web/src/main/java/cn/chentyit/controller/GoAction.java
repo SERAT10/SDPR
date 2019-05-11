@@ -40,7 +40,7 @@ public class GoAction {
     @RequestMapping("/thesisList")
     public String toAllThesisList() {
         // 转发到 ProcessController 里面处理数据
-        return "redirect:/rest/process/select?pageNum=1&search=";
+        return "redirect:/process/select?pageNum=1&search=";
     }
 
     /**
@@ -59,7 +59,7 @@ public class GoAction {
     @RequestMapping("/goScholarRank")
     public String goScholarRank() {
         // 转发到 ProcessController 里面处理数据
-        return "redirect:/rest/process/calculateRank";
+        return "redirect:/process/calculateRank";
     }
 
     /**
@@ -68,7 +68,7 @@ public class GoAction {
      */
     @RequestMapping("/goScholarInstitution")
     public String goScholarInstitution() {
-        return "redirect:/rest/process/sortLastName";
+        return "redirect:/process/sortLastName";
     }
 
     /**
@@ -86,6 +86,6 @@ public class GoAction {
      */
     @RequestMapping("/goPublicationVenue")
     public String goPublicationVenue() {
-        return "redirect:/rest/process/classifyPublication";
+        return "redirect:/process/classifyPublication";
     }
 }

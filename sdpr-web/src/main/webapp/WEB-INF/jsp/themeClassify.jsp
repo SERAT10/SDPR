@@ -28,19 +28,19 @@
 	<div class="content">
 	    <div class="my-row">
 	        <div class="my-col">
-	            <a href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=1&themeId=1">
+	            <a href="${pageContext.request.contextPath}/process/selectTheme?pageNum=1&themeId=1">
 					<div class="field-name">A</div>
 				</a>
 	            <div class="field-content">Studies on identifying parameters, values, and the interrelations of parameters of software under test. It is the fundamental activity of combinatorial testing.</div>
 	        </div>
 	        <div class="my-col">
-	            <a href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=1&themeId=2">
+	            <a href="${pageContext.request.contextPath}/process/selectTheme?pageNum=1&themeId=2">
 					<div class="field-name">B</div>
 				</a>
 	            <div class="field-content">Studies on generating as small test suites as possible. It is the most popular field in combinatorial testing. The many proposed techniques consist of mathematical methods, greedy methods, and search based methods.</div>
 	        </div>
 	        <div class="my-col">
-	            <a href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=1&themeId=3">
+	            <a href="${pageContext.request.contextPath}/process/selectTheme?pageNum=1&themeId=3">
 					<div class="field-name">C</div>
 				</a>
 	            <div class="field-content">Studies on improving the test suite by prioritization, minimization and selection techniques.</div>
@@ -49,19 +49,19 @@
 	
 	    <div class="my-row">
 	        <div class="my-col">
-	            <a href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=1&themeId=4">
+	            <a href="${pageContext.request.contextPath}/process/selectTheme?pageNum=1&themeId=4">
 					<div class="field-name">D</div>
 				</a>
 	            <div class="field-content">Studies on locating the concrete failure causing interactions.</div>
 	        </div>
 	        <div class="my-col">
-	            <a href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=1&themeId=5">
+	            <a href="${pageContext.request.contextPath}/process/selectTheme?pageNum=1&themeId=5">
 					<div class="field-name">E</div>
 				</a>
 	            <div class="field-content">Studies on measuring the effectiveness of CT and comparing CT with other testing methods.</div>
 	        </div>
 	        <div class="my-col">
-	            <a href="${pageContext.request.contextPath}/rest/process/selectTheme?pageNum=1&themeId=6">
+	            <a href="${pageContext.request.contextPath}/process/selectTheme?pageNum=1&themeId=6">
 					<div class="field-name">F</div>
 				</a>
 	            <div class="field-content">Studies on applying, improving, and popularizing CT and its procedures in real world.</div>

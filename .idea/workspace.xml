@@ -7,16 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/manage/login/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/jquery/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/jquery/jquery-3.3.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/echarts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/jquery.dataTables.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/classes/cn/chentyit/controller/Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/classes/cn/chentyit/controller/Index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/cn/chentyit/controller/Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/cn/chentyit/controller/Index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/manage/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/manage/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-service-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,81 +45,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1252">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1612#1613#0" expanded="true" />
-                <element signature="e#1672#1673#0" expanded="true" />
-                <element signature="e#1811#1812#0" expanded="true" />
-                <element signature="e#1849#1850#0" expanded="true" />
-                <element signature="e#2001#2002#0" expanded="true" />
-                <element signature="e#2068#2069#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java">
+        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="344">
+              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java">
+        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1673#1674#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-                <element signature="e#805#806#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#947#948#0" expanded="true" />
-                <element signature="e#985#986#0" expanded="true" />
-                <element signature="e#1047#1048#0" expanded="true" />
-                <element signature="e#1101#1102#0" expanded="true" />
-                <element signature="e#1143#1144#0" expanded="true" />
-                <element signature="e#1184#1185#0" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="529">
+              <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -136,11 +86,13 @@
       <find>back</find>
       <find>loadNopChartOut</find>
       <find>ali</find>
+      <find>/rest/</find>
     </findStrings>
     <replaceStrings>
       <replace>${pageContext.request.contextPath}/css/</replace>
       <replace>${pageContext.request.contextPath}/staticResource/image/</replace>
       <replace>${pageContext.request.contextPath}/staticResource/images/</replace>
+      <replace>/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -153,11 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/DOFJson.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-chart.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-chart.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-chart.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/sitm-charts.js" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/world.js" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/rank.css" />
         <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRRandMapper.xml" />
@@ -177,33 +124,38 @@
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarInstitution.jsp" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/research.jsp" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/research.css" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/pubtication.css" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/pubticationVenue.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml" />
         <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.java" />
         <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisService.java" />
         <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisServiceImpl.java" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml" />
         <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/manage/login/css/style.css" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/index.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" />
-        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" />
         <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.java" />
         <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.xml" />
         <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ManagerService.java" />
         <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ManagerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp" />
         <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js" />
+        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -253,8 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -435,30 +385,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="staticResource" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="staticResource" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="staticResource" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
@@ -494,6 +421,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,7 +432,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556011005007" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dangdang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-04-web-jsp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -518,21 +447,21 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cn.chentyit.service" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\images" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticresource" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\manage\login" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF\jsp" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\scripts" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-common\src\main\java\cn\chentyit\common" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\images" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticresource" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -739,6 +668,9 @@
       <workItem from="1557447828089" duration="2594000" />
       <workItem from="1557450697661" duration="1298000" />
       <workItem from="1557453449331" duration="5524000" />
+      <workItem from="1557471612050" duration="2028000" />
+      <workItem from="1557498386219" duration="1670000" />
+      <workItem from="1557542600334" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="version 0.5">
       <created>1557451433323</created>
@@ -775,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557453550563</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="version 0.51">
+      <created>1557471694940</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557471694940</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -790,13 +729,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175405000" />
+    <option name="totallyTimeSpent" value="179736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27479893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28411514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -807,8 +746,8 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3263889" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5013889" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.53333336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5331197" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -817,7 +756,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32916668" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32916668" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32905984" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32916668" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.32916668" />
@@ -837,7 +776,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 0.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 0.5" />
+    <MESSAGE value="version 0.51" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 0.51" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -847,107 +787,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/images/background.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/pubtication.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="66" column="64" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="66" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="70" column="35" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2461">
-          <caret line="107" column="25" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/noi-chart.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="115" column="117" selection-start-line="115" selection-start-column="117" selection-end-line="115" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-pojo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/beans.xml" />
-    <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/DOFJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/NOPNumberOfThesisForTheme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -969,24 +808,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/TestAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="33" selection-start-line="12" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1005,20 +830,6 @@
             <element signature="e#1156#1157#0" expanded="true" />
             <element signature="e#1209#1210#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="28" column="110" selection-start-line="28" selection-start-column="110" selection-end-line="28" selection-end-column="110" />
         </state>
       </provider>
     </entry>
@@ -1043,16 +854,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#lastNameSortByAlphabet#0;class#SDPRValue#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-777">
-          <caret line="100" column="35" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1156,29 +957,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/org/apache/log4j/Hierarchy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="132">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1636#1637#0" expanded="true" />
-            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#5525#5526#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/org/apache/log4j/Category.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="102" column="68" selection-start-line="102" selection-start-column="49" selection-end-line="102" selection-end-column="68" />
+        <state relative-caret-position="132">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/impl/Log4JLogger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="e#3380#3381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="1357">
+          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#612#613#0" expanded="true" />
@@ -1201,17 +1024,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp">
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        <state relative-caret-position="-254">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1635#1636#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/TestAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="100" column="35" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1252">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="503">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1612#1613#0" expanded="true" />
@@ -1224,10 +1089,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java">
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="-1357">
+          <caret line="40" column="73" lean-forward="true" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="106" column="87" selection-start-line="106" selection-start-column="87" selection-end-line="106" selection-end-column="87" />
+          <folding>
+            <element signature="e#2632#2639#1#HTML" expanded="true" />
+            <element signature="e#2885#2892#1#HTML" expanded="true" />
+            <element signature="e#3146#3153#1#HTML" expanded="true" />
+            <element signature="e#3382#3389#1#HTML" expanded="true" />
+            <element signature="e#5050#5057#1#HTML" expanded="true" />
+            <element signature="e#5304#5311#1#HTML" expanded="true" />
+            <element signature="e#5566#5573#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarInstitution.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarRank.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1381" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/echarts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/noi-chart.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/sitm-charts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/world.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>
