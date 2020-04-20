@@ -1,0 +1,9 @@
+cn\chentyit\pojo\Institute.class
+cn\chentyit\pojo\Theme.class
+cn\chentyit\pojo\Scholar.class
+cn\chentyit\pojo\Thesis.class
+cn\chentyit\pojo\ThesisScholar.class
+cn\chentyit\pojo\Manager.class
+cn\chentyit\pojo\NOPJson.class
+cn\chentyit\pojo\DOFJson.class
+cn\chentyit\pojo\NOPNumberOfThesisForTheme.class

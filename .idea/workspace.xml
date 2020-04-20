@@ -6,65 +6,87 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="">
+    <list default="true" id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="version 0.51">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-common/target/classes/cn/chentyit/common/SDPRValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/classes/cn/chentyit/common/SDPRValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-common/target/sdpr-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/sdpr-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRChartsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRManagerMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRScholarMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRScholarMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThemeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRThemeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRThesisMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRChartsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRManagerMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRScholarMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRThemeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRThesisMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/sdpr-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/sdpr-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/TEST-cn.chentyit.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/TEST-cn.chentyit.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/cn.chentyit.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/cn.chentyit.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Thesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Thesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/sdpr-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/sdpr-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-service/target/sdpr-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/sdpr-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/resource/jdbcInfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/resource/jdbcInfo.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/manage/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/manage/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/classes/jdbcInfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/classes/jdbcInfo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/META-INF/sdprweb.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/cn/chentyit/controller/testGoAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/jdbcInfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/jdbcInfo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/pubticationVenue.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/statisticChart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/statisticChart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-dao-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-web-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/images/Research-Filed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/nop-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/nop-charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/rpof-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/sitm-chart.js" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/sdpr-pojo/target/" />
-    <ignored path="$PROJECT_DIR$/sdpr-common/target/" />
-    <ignored path="$PROJECT_DIR$/sdpr-dao/target/" />
-    <ignored path="$PROJECT_DIR$/sdpr-service/target/" />
-    <ignored path="$PROJECT_DIR$/sdpr-web/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,85 +100,11 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>../../css/</find>
-      <find>../../image/</find>
-      <find>${pageContext.request.contextPath}/staticResource/image/</find>
-      <find>back</find>
-      <find>loadNopChartOut</find>
-      <find>ali</find>
-      <find>/rest/</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>${pageContext.request.contextPath}/css/</replace>
-      <replace>${pageContext.request.contextPath}/staticResource/image/</replace>
-      <replace>${pageContext.request.contextPath}/staticResource/images/</replace>
-      <replace>/</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/world.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/rank.css" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRRandMapper.xml" />
-        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Scholar.java" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.xml" />
-        <option value="$PROJECT_DIR$/sdpr-common/pom.xml" />
-        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/Publisher.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarRank.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/MyList.java" />
-        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRRankValue.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/scholar.css" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRScholarMapper.xml" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRScholarMapper.java" />
-        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ScholarService.java" />
-        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ScholarServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarInstitution.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/research.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/research.css" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/css/pubtication.css" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/pubticationVenue.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.java" />
-        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisService.java" />
-        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisServiceImpl.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml" />
-        <option value="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/manage/login/css/style.css" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/index.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.java" />
-        <option value="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.xml" />
-        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ManagerService.java" />
-        <option value="$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ManagerServiceImpl.java" />
-        <option value="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js" />
-        <option value="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml" />
-      </list>
     </option>
   </component>
   <component name="LogFilters">
@@ -169,261 +117,19 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/Maven/maven36" />
+        <option name="localRepository" value="D:\Maven\Repository" />
+        <option name="mavenHome" value="D:/Maven/maven361" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SDPR" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SDPR" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1090" />
-  </component>
+  <component name="ProjectId" id="1OZgWHHk8BgPZXVKBfjmPdPpx3n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="staticResource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="staticResource" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDPR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDPR" type="462c0819:PsiDirectoryNode" />
-              <item name="sdpr-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="manage" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -432,52 +138,45 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556011005007" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-04-web-jsp" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../HBuilder X-workplace/SDPR-management-system" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.25780347" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cn.chentyit.service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\images" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticresource" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src\main" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource\mapperConfig" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource\cn.chentyit.mapper" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\manage\login" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF\jsp" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\scripts" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-common\src\main\java\cn\chentyit\common" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat9">
-    <configuration name="ThemeServerImplTest.findAllTheme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThemeServerImplTest.findAllTheme" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="sdprservice" />
       <extension name="coverage">
         <pattern>
@@ -491,10 +190,12 @@
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8091/SDPR/" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -507,6 +208,7 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_SDPR" />
+        <option name="HTTP_PORT" value="8091" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -515,6 +217,9 @@
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="55616" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="50740" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -532,6 +237,36 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
@@ -577,11 +312,6 @@
       <item itemvalue="JUnit.ThemeServerImplTest.findAllTheme" />
       <item itemvalue="Tomcat Server.Tomcat9" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ThemeServerImplTest.findAllTheme" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Chentyit\AppData\Roaming\Subversion</configuration>
@@ -671,6 +401,62 @@
       <workItem from="1557471612050" duration="2028000" />
       <workItem from="1557498386219" duration="1670000" />
       <workItem from="1557542600334" duration="633000" />
+      <workItem from="1564190571446" duration="426000" />
+      <workItem from="1564191021422" duration="141000" />
+      <workItem from="1564191178612" duration="4011000" />
+      <workItem from="1564499573424" duration="38000" />
+      <workItem from="1564499733065" duration="84000" />
+      <workItem from="1564532488993" duration="2669000" />
+      <workItem from="1564549047887" duration="1319000" />
+      <workItem from="1564642535320" duration="742000" />
+      <workItem from="1564644463563" duration="526000" />
+      <workItem from="1564964767712" duration="12000" />
+      <workItem from="1564965448461" duration="66000" />
+      <workItem from="1565075521431" duration="53000" />
+      <workItem from="1565080045099" duration="628000" />
+      <workItem from="1565087274546" duration="72000" />
+      <workItem from="1565091301832" duration="210000" />
+      <workItem from="1565137480456" duration="719000" />
+      <workItem from="1565145598369" duration="542000" />
+      <workItem from="1565666688135" duration="13000" />
+      <workItem from="1565791114015" duration="63000" />
+      <workItem from="1565791505419" duration="139000" />
+      <workItem from="1566445243033" duration="1020000" />
+      <workItem from="1566446326169" duration="87000" />
+      <workItem from="1566446438333" duration="304000" />
+      <workItem from="1566446769400" duration="6000" />
+      <workItem from="1566451908047" duration="159000" />
+      <workItem from="1566452096098" duration="9000" />
+      <workItem from="1566487894397" duration="9000" />
+      <workItem from="1566554769703" duration="162000" />
+      <workItem from="1566784472400" duration="848000" />
+      <workItem from="1566797949326" duration="90000" />
+      <workItem from="1567058356596" duration="13000" />
+      <workItem from="1567065670699" duration="21000" />
+      <workItem from="1567065735817" duration="1867000" />
+      <workItem from="1567500614603" duration="74000" />
+      <workItem from="1567510102093" duration="10000" />
+      <workItem from="1567917558852" duration="67000" />
+      <workItem from="1567918298652" duration="195000" />
+      <workItem from="1567919021661" duration="118000" />
+      <workItem from="1567919418144" duration="421000" />
+      <workItem from="1570889221112" duration="158000" />
+      <workItem from="1571016113739" duration="805000" />
+      <workItem from="1571019535599" duration="91000" />
+      <workItem from="1586357524232" duration="1303000" />
+      <workItem from="1586515129622" duration="931000" />
+      <workItem from="1586573923250" duration="30000" />
+      <workItem from="1586574755552" duration="843000" />
+      <workItem from="1586842809854" duration="625000" />
+      <workItem from="1586916813566" duration="609000" />
+      <workItem from="1586917890648" duration="603000" />
+      <workItem from="1586921679214" duration="7398000" />
+      <workItem from="1586960511494" duration="54000" />
+      <workItem from="1587002795028" duration="4400000" />
+      <workItem from="1587022321976" duration="637000" />
+      <workItem from="1587194384886" duration="1084000" />
+      <workItem from="1587291657755" duration="1052000" />
+      <workItem from="1587347843069" duration="533000" />
     </task>
     <task id="LOCAL-00001" summary="version 0.5">
       <created>1557451433323</created>
@@ -728,56 +514,147 @@
       <configuration name="ThemeServerImplTest.findAllTheme" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179736000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28411514" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3263889" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5331197" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32916668" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32916668" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32905984" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32916668" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32916668" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 0.5" />
     <MESSAGE value="version 0.51" />
     <option name="LAST_COMMIT_MESSAGE" value="version 0.51" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1586357755135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1586357755135" />
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586921823691">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586921823691" />
+    <state x="502" y="36" key="CommitChangelistDialog2" timestamp="1586939607729">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="502" y="36" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586939607729" />
+    <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1586960530378">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1586960530378" />
+    <state width="1382" height="455" key="GridCell.Tab.0.bottom" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.0.center" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.0.left" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.0.right" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.1.bottom" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.1.center" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.1.left" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.1.right" timestamp="1587348376221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
+    <state width="901" height="636" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.2.bottom" timestamp="1587348376222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
+    <state width="901" height="636" key="GridCell.Tab.2.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.2.center" timestamp="1587348376222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
+    <state width="901" height="636" key="GridCell.Tab.2.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.2.left" timestamp="1587348376222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
+    <state width="901" height="636" key="GridCell.Tab.2.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.2.right" timestamp="1587348376222">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1382" height="455" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
+    <state width="901" height="636" key="GridCell.Tab.2.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1860" height="626" key="GridCell.Tab.3.bottom" timestamp="1586515221523">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.3.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1586515221523" />
+    <state width="1860" height="626" key="GridCell.Tab.3.center" timestamp="1586515221522">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.3.center/0.0.2560.1440@0.0.2560.1440" timestamp="1586515221522" />
+    <state width="1860" height="626" key="GridCell.Tab.3.left" timestamp="1586515221522">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.3.left/0.0.2560.1440@0.0.2560.1440" timestamp="1586515221522" />
+    <state width="1860" height="626" key="GridCell.Tab.3.right" timestamp="1586515221522">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.3.right/0.0.2560.1440@0.0.2560.1440" timestamp="1586515221522" />
+    <state width="1860" height="626" key="GridCell.Tab.4.bottom" timestamp="1586515222195">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.4.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1586515222195" />
+    <state width="1860" height="626" key="GridCell.Tab.4.center" timestamp="1586515222195">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.4.center/0.0.2560.1440@0.0.2560.1440" timestamp="1586515222195" />
+    <state width="1860" height="626" key="GridCell.Tab.4.left" timestamp="1586515222195">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.4.left/0.0.2560.1440@0.0.2560.1440" timestamp="1586515222195" />
+    <state width="1860" height="626" key="GridCell.Tab.4.right" timestamp="1586515222195">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1860" height="626" key="GridCell.Tab.4.right/0.0.2560.1440@0.0.2560.1440" timestamp="1586515222195" />
+    <state x="936" y="543" key="com.intellij.ide.util.TipDialog" timestamp="1586573922392">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="936" y="543" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1586573922392" />
+    <state x="654" y="294" key="new project wizard" timestamp="1586960563630">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="654" y="294" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1586960563630" />
+    <state x="640" y="138" key="spring file set editor" timestamp="1586358349774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="138" key="spring file set editor/0.0.1920.1080@0.0.1920.1080" timestamp="1586358349774" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -785,507 +662,5 @@
         <watch expression="((IfTag)_jspx_th_c_005fif_005f0).pageContext" custom="org.apache.taglibs.standard.tag.rt.core.IfTag" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/NOPNumberOfThesisForTheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="205" column="19" selection-start-line="19" selection-start-column="4" selection-end-line="205" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/sqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="59" column="65" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
-            <element signature="e#1209#1210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ChartsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/DESUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#lastNameSortByAlphabet#0;class#SDPRValue#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/manage/login/images/avtar.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/manage/login/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="400" column="5" selection-start-line="400" selection-start-column="5" selection-end-line="400" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ScholarService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThemeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThemeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ThesisService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="66" column="64" selection-start-line="66" selection-start-column="64" selection-end-line="66" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ManagerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-service/src/main/java/cn/chentyit/service/ManagerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/org/apache/log4j/Hierarchy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
-          <folding>
-            <element signature="e#5525#5526#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/org/apache/log4j/Category.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="281" selection-start-line="281" selection-end-line="281" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/impl/Log4JLogger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-          <folding>
-            <element signature="e#3380#3381#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/manage/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1357">
-          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1249#1250#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GetChartsData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/Index.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1635#1636#0" expanded="true" />
-            <element signature="e#1672#1673#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ManagerAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/TestAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="100" column="35" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/GoAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1612#1613#0" expanded="true" />
-            <element signature="e#1672#1673#0" expanded="true" />
-            <element signature="e#1811#1812#0" expanded="true" />
-            <element signature="e#1849#1850#0" expanded="true" />
-            <element signature="e#2001#2002#0" expanded="true" />
-            <element signature="e#2068#2069#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1357">
-          <caret line="40" column="73" lean-forward="true" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/allThesisList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="106" column="87" selection-start-line="106" selection-start-column="87" selection-end-line="106" selection-end-column="87" />
-          <folding>
-            <element signature="e#2632#2639#1#HTML" expanded="true" />
-            <element signature="e#2885#2892#1#HTML" expanded="true" />
-            <element signature="e#3146#3153#1#HTML" expanded="true" />
-            <element signature="e#3382#3389#1#HTML" expanded="true" />
-            <element signature="e#5050#5057#1#HTML" expanded="true" />
-            <element signature="e#5304#5311#1#HTML" expanded="true" />
-            <element signature="e#5566#5573#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/publicationVenue.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarInstitution.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/scholarRank.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1381" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-700">
-          <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/themeClassify.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="63" column="65" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/top.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/echarts.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/dof-charts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/noi-chart.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/rpof-charts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/sitm-charts.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/world.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/resource/springMvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>sdprweb:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>sdprweb</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.25780347" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.alibaba:druid:1.0.20</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

@@ -15,7 +15,7 @@ public class Thesis implements Serializable {
     /**
      * 论文 ID
      */
-    private int thesisId;
+    private String thesisId;
 
     /**
      * 论文标题
@@ -96,7 +96,7 @@ public class Thesis implements Serializable {
     }
 
     public Thesis(
-            int thesisId,
+            String thesisId,
             String thesisTitle,
             int themeId,
             String themeAuthor,
@@ -131,11 +131,11 @@ public class Thesis implements Serializable {
         this.thesisBibtex = thesisBibtex;
     }
 
-    public int getThesisId() {
+    public String getThesisId() {
         return thesisId;
     }
 
-    public void setThesisId(int thesisId) {
+    public void setThesisId(String thesisId) {
         this.thesisId = thesisId;
     }
 
@@ -261,8 +261,12 @@ public class Thesis implements Serializable {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof Thesis)) return false;
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Thesis)) {
+            return false;
+        }
         Thesis thesis = (Thesis) o;
         return getThesisId() == thesis.getThesisId() &&
                 getThemeId() == thesis.getThemeId() &&

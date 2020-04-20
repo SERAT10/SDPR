@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.chentyit.mapper.SDPRThesisMapper">
+    <resultMap id="BaseResultMap" type="Thesis">
+        <id column="thesis_id" property="thesisId" javaType="String"/>
+        <result column="thesis_title" property="thesisTitle" javaType="String"/>
+        <result column="theme_id" property="themeId" javaType="Integer"/>
+        <result column="thesis_author" property="themeAuthor" javaType="String"/>
+        <result column="thesis_digest" property="thesisDigest" javaType="String"/>
+        <result column="thesis_classic" property="thesisClassic" javaType="Integer"/>
+        <result column="thesis_booktitle" property="thesisBookTitle" javaType="String"/>
+        <result column="thesis_organization" property="thesisOrganization" javaType="String"/>
+        <result column="thesis_publisher" property="thesisPublisher" javaType="String"/>
+        <result column="thesis_journal" property="thesisJournal" javaType="String"/>
+        <result column="thesis_volume" property="thesisVolume" javaType="Integer"/>
+        <result column="thesis_number" property="thesisNumber" javaType="Integer"/>
+        <result column="thesis_pages" property="thesisPages" javaType="String"/>
+        <result column="thesis_year" property="thesisYear" javaType="String"/>
+        <result column="thesis_doi" property="thesisDoi" javaType="String"/>
+        <result column="thesis_bibtex" property="thesisBibtex" javaType="String"/>
+    </resultMap>
+
+    <!-- 查询论文的总数 -->
+    <select id="summationOfThesis" resultType="Integer">
+        SELECT COUNT(*) FROM thesis
+    </select>
+
+    <!-- 根据 title 查询论文 -->
+    <select id="findThesisByTitle" parameterType="String" resultMap="BaseResultMap">
+        SELECT * FROM thesis WHERE thesis_title LIKE concat('%', #{thesisTitle}, '%')
+    </select>
+    
+    <!-- 通过某个作者的 id 查询和作者有关的论文 -->
+    <select id="findArticleByAuthorId" parameterType="Integer" resultMap="BaseResultMap">
+        SELECT th.*
+        FROM thesis AS th
+        WHERE th.thesis_id IN (
+            SELECT thsc.thesis_id
+            FROM thesis_scholar AS thsc
+            WHERE thsc.scholar_id = #{id}
+        )
+    </select>
+
+    <select id="findThesisByThemeId" parameterType="Integer" resultMap="BaseResultMap">
+        SELECT *
+        FROM thesis
+        WHERE theme_id = #{themeId}
+    </select>
+
+    <select id="findBookTitle" resultType="String">
+        SELECT DISTINCT thesis_booktitle
+        FROM thesis
+        WHERE thesis_booktitle != ''
+        ORDER BY thesis_booktitle
+    </select>
+
+    <select id="findJournal" resultType="String">
+        SELECT DISTINCT thesis_journal
+        FROM thesis
+        WHERE thesis_journal != ''
+        ORDER BY thesis_journal
+    </select>
+
+    <select id="findThesisByBookTitle" parameterType="String" resultMap="BaseResultMap">
+        SELECT *
+        FROM thesis
+        WHERE thesis_booktitle = #{bookTitleName}
+    </select>
+
+    <select id="findThesisByJournal" parameterType="String" resultMap="BaseResultMap">
+        SELECT *
+        FROM thesis
+        WHERE thesis_journal = #{journalName}
+    </select>
+</mapper>

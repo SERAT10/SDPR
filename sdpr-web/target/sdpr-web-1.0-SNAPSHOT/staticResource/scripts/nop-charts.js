@@ -73,7 +73,7 @@ function getNOPDate() {
 		"url": path + "/getChartsData/getNOPData",
 		"async": false,
 		"success": function (data) {
-			// 将后天获取过来的数据放入图标中
+			// 将后台获取过来的数据放入图标中
 			for (var i = 0; i < data.length; i++) {
 				option_nop.legend.data.push(data[i].name);
 				option_nop.series.push(data[i]);

@@ -86,8 +86,8 @@ public class SDPRValue {
                             break;
                     }
                 }
-                if (thesis.getThesisBookTitle() != null) {
-                    switch (thesis.getThesisBookTitle()) {
+                if (thesis.getThesisOrganization() != null) {
+                    switch (thesis.getThesisOrganization()) {
                         case "ICSE":
                             data[6]++;
                             break;

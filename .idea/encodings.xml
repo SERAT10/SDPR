@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sdpr-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdpr-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sdpr-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdpr-dao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sdpr-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdpr-pojo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sdpr-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdpr-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sdpr-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdpr-web/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
