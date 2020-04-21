@@ -70,7 +70,7 @@ public class Thesis implements Serializable {
     /**
      * 论文期刊期号
      */
-    private int thesisNumber;
+    private String thesisNumber;
 
     /**
      * 论文页码
@@ -107,7 +107,7 @@ public class Thesis implements Serializable {
             String thesisPublisher,
             String thesisJournal,
             int thesisVolume,
-            int thesisNumber
+            String thesisNumber
             , String thesisPages,
             String thesisYear,
             String thesisDoi,
@@ -219,11 +219,11 @@ public class Thesis implements Serializable {
         this.thesisVolume = thesisVolume;
     }
 
-    public int getThesisNumber() {
+    public String getThesisNumber() {
         return thesisNumber;
     }
 
-    public void setThesisNumber(int thesisNumber) {
+    public void setThesisNumber(String thesisNumber) {
         this.thesisNumber = thesisNumber;
     }
 

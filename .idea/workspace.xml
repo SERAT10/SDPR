@@ -6,76 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="version 0.51">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="da8a15af-6f64-4b25-b67d-04397ebe106a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/src/main/java/cn/chentyit/common/SDPRValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-common/target/classes/cn/chentyit/common/SDPRValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/classes/cn/chentyit/common/SDPRValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-common/target/sdpr-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-common/target/sdpr-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRChartsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRChartsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRManagerMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRManagerMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRScholarMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRScholarMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThemeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRThemeMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/java/cn/chentyit/mapper/SDPRThesisMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRThesisMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRChartsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRManagerMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRScholarMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRThemeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/classes/cn/chentyit/mapper/SDPRThesisMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/sdpr-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/sdpr-dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/TEST-cn.chentyit.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/TEST-cn.chentyit.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/cn.chentyit.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/target/surefire-reports/cn.chentyit.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRThesisMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-dao/src/main/resource/mapperConfig/SDPRThesisMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Thesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/src/main/java/cn/chentyit/pojo/Thesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/sdpr-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/sdpr-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-service/target/sdpr-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-service/target/sdpr-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/resource/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-pojo/target/classes/cn/chentyit/pojo/Thesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-pojo/target/classes/cn/chentyit/pojo/Thesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/java/cn/chentyit/controller/ProcessController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/resource/jdbcInfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/resource/jdbcInfo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/WEB-INF/jsp/statisticChart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/src/main/webapp/staticResource/scripts/nop-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/classes/beans.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/target/classes/jdbcInfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/classes/jdbcInfo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/META-INF/sdprweb.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/cn/chentyit/controller/testGoAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/jdbcInfo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/classes/jdbcInfo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/pubticationVenue.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/statisticChart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/jsp/statisticChart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-dao-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/lib/sdpr-web-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/images/Research-Filed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/nop-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/nop-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/rpof-chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdpr-web/target/sdpr-web-1.0-SNAPSHOT/staticResource/scripts/sitm-chart.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,22 +97,22 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cn.chentyit.service" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src\main" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource\mapperConfig" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src" />
-      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource\cn.chentyit.mapper" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\manage\login" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\WEB-INF\jsp" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-web\src\main\webapp\staticResource\scripts" />
       <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-common\src\main\java\cn\chentyit\common" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src\main" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource\mapperConfig" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\src" />
+      <recent name="E:\Program\IDEA-workplace\Maven\SDPR\sdpr-dao\resource\cn.chentyit.mapper" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat9">
@@ -457,6 +397,9 @@
       <workItem from="1587194384886" duration="1084000" />
       <workItem from="1587291657755" duration="1052000" />
       <workItem from="1587347843069" duration="533000" />
+      <workItem from="1587351504912" duration="81000" />
+      <workItem from="1587373263448" duration="137000" />
+      <workItem from="1587442313357" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="version 0.5">
       <created>1557451433323</created>
@@ -500,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557471694940</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="【软件缺陷预测论文仓库】后台管理系统 —— 修改数据字段配合数据数据绑定">
+      <created>1587351573519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587351573519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -532,7 +482,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 0.5" />
     <MESSAGE value="version 0.51" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 0.51" />
+    <MESSAGE value="【软件缺陷预测论文仓库】后台管理系统 —— 修改数据字段配合数据数据绑定" />
+    <option name="LAST_COMMIT_MESSAGE" value="【软件缺陷预测论文仓库】后台管理系统 —— 修改数据字段配合数据数据绑定" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Project_Structure" timestamp="1586357755135">
@@ -543,74 +494,74 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586921823691" />
-    <state x="502" y="36" key="CommitChangelistDialog2" timestamp="1586939607729">
+    <state x="502" y="36" key="CommitChangelistDialog2" timestamp="1587351571032">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="502" y="36" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586939607729" />
+    <state x="502" y="36" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587351571032" />
     <state x="1060" y="474" key="FileChooserDialogImpl" timestamp="1586960530378">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1060" y="474" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1586960530378" />
-    <state width="1382" height="455" key="GridCell.Tab.0.bottom" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1860" height="635" key="GridCell.Tab.0.bottom" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.0.center" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.0.center" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.0.left" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.0.left" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.0.right" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.0.right" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.1.bottom" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.1.bottom" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.1.center" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.1.center" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.1.left" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.1.left" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.1.right" timestamp="1587348376221">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.1.right" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376221" />
-    <state width="901" height="636" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.2.bottom" timestamp="1587348376222">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400286" />
+    <state width="1860" height="635" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.2.bottom" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
-    <state width="901" height="636" key="GridCell.Tab.2.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.2.center" timestamp="1587348376222">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400287" />
+    <state width="1860" height="635" key="GridCell.Tab.2.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.2.center" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
-    <state width="901" height="636" key="GridCell.Tab.2.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.2.left" timestamp="1587348376222">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400287" />
+    <state width="1860" height="635" key="GridCell.Tab.2.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.2.left" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
-    <state width="901" height="636" key="GridCell.Tab.2.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
-    <state width="1382" height="455" key="GridCell.Tab.2.right" timestamp="1587348376222">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1382" height="455" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400287" />
+    <state width="1860" height="635" key="GridCell.Tab.2.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
+    <state width="1860" height="635" key="GridCell.Tab.2.right" timestamp="1587442745558">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1382" height="455" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587348376222" />
-    <state width="901" height="636" key="GridCell.Tab.2.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587292710544" />
+    <state width="1382" height="455" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587373400287" />
+    <state width="1860" height="635" key="GridCell.Tab.2.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587442745558" />
     <state width="1860" height="626" key="GridCell.Tab.3.bottom" timestamp="1586515221523">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -643,10 +594,18 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1860" height="626" key="GridCell.Tab.4.right/0.0.2560.1440@0.0.2560.1440" timestamp="1586515222195" />
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2" timestamp="1587351575261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1587351575261" />
     <state x="936" y="543" key="com.intellij.ide.util.TipDialog" timestamp="1586573922392">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="936" y="543" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1586573922392" />
+    <state x="752" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587351510884">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1587351510884" />
     <state x="654" y="294" key="new project wizard" timestamp="1586960563630">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

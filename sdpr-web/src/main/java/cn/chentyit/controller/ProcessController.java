@@ -53,7 +53,7 @@ public class ProcessController {
         }
 
         // 分页查询处理 (pageNum 当前页, pageSize 每页显示几条数据)
-        PageHelper.startPage(pageNum, 3);
+        PageHelper.startPage(pageNum, 30);
 
         PageInfo<Thesis> pageInfo = new PageInfo<>(thesisService.findThesisByTitle(search));
         model.addAttribute("thesisList", pageInfo.getList());
@@ -81,7 +81,7 @@ public class ProcessController {
         }
 
         // 分页查询处理 (pageNum 当前页, pageSize 每页显示几条数据)
-        PageHelper.startPage(pageNum, 3);
+        PageHelper.startPage(pageNum, 30);
 
         PageInfo<Thesis> pageInfo = new PageInfo<>(thesisService.findThesisByThemeId(themeId));
         model.addAttribute("thesisList", pageInfo.getList());
@@ -109,7 +109,7 @@ public class ProcessController {
         }
 
         // 分页查询处理 (pageNum 当前页, pageSize 每页显示几条数据)
-        PageHelper.startPage(pageNum, 3);
+        PageHelper.startPage(pageNum, 30);
 
         PageInfo<Thesis> pageInfo = new PageInfo<>(thesisService.findThesisByJournal(journalName));
         model.addAttribute("thesisList", pageInfo.getList());
@@ -137,7 +137,7 @@ public class ProcessController {
         }
 
         // 分页查询处理 (pageNum 当前页, pageSize 每页显示几条数据)
-        PageHelper.startPage(pageNum, 3);
+        PageHelper.startPage(pageNum, 30);
 
         PageInfo<Thesis> pageInfo = new PageInfo<>(thesisService.findThesisByBookTitle(bookTitleName));
         model.addAttribute("thesisList", pageInfo.getList());

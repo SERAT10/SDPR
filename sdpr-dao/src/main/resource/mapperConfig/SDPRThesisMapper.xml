@@ -14,7 +14,7 @@
         <result column="thesis_publisher" property="thesisPublisher" javaType="String"/>
         <result column="thesis_journal" property="thesisJournal" javaType="String"/>
         <result column="thesis_volume" property="thesisVolume" javaType="Integer"/>
-        <result column="thesis_number" property="thesisNumber" javaType="Integer"/>
+        <result column="thesis_number" property="thesisNumber" javaType="String"/>
         <result column="thesis_pages" property="thesisPages" javaType="String"/>
         <result column="thesis_year" property="thesisYear" javaType="String"/>
         <result column="thesis_doi" property="thesisDoi" javaType="String"/>
